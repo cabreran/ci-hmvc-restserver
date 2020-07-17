@@ -16,7 +16,7 @@ composer require cabreran/ci-hmvc-restserver
 
 ## Usage
 
-CodeIgniter HMVC Rest Server is available on [Packagist](https://packagist.org/packages/cabreran/codeigniter-restserver) (using semantic versioning), and installation via composer is the recommended way to install Codeigniter Rest Server. Just add this line to your `composer.json` file:
+CodeIgniter HMVC Rest Server is available on [Packagist](https://packagist.org/packages/cabreran/ci-hmvc-restserver) (using semantic versioning), and installation via composer is the recommended way to install Codeigniter Rest Server. Just add this line to your `composer.json` file:
 
 ```json
 "cabreran/ci-hmvc-restserver": "^3.1"
