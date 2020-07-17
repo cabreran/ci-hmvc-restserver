@@ -1,0 +1,14 @@
+{
+    "name": "cabreran/ci-hmvc-restserver",
+    "description": "CodeIgniter HMVC Rest Server",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/cabreran/codeigniter-restserver",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Cabreran\\RestServer\\": "src/"}
+    },
+    "require": {
+        "php": ">= 7.1"
+    }
+}
