@@ -3,7 +3,7 @@
     "description": "CodeIgniter HMVC Rest Server",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/cabreran/codeigniter-restserver",
+    "homepage": "https://github.com/cabreran/ci-hmvc-restserver",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Cabreran\\RestServer\\": "src/"}
